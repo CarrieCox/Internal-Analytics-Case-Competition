@@ -29,4 +29,4 @@ My group and I used the following tools to perform this analysis:
 My role within this team was to be an organizer and to create the visualizations. 
 - I helped define the business problem and marketing recommendations based on the trends wtihin the sales data.
 - I created Tableau visuals that highlighted key components of our analysis. 
-- I organized all of our information into an astheticly pleasing presentation. 
+- I organized all of our information into an aestheticly pleasing presentation. 
